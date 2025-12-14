@@ -1,64 +1,28 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenJarbas/tunein/tree/HEAD)
+## [V0.0.4a3](https://github.com/TigreGotico/tunein/tree/V0.0.4a3) (2024-05-28)
 
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.4a2...HEAD)
-
-**Implemented enhancements:**
-
-- Add multi stream support [\#6](https://github.com/OpenJarbas/tunein/pull/6) ([cidrblock](https://github.com/cidrblock))
-
-## [V0.0.4a2](https://github.com/OpenJarbas/tunein/tree/V0.0.4a2) (2023-11-16)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.4a1...V0.0.4a2)
+[Full Changelog](https://github.com/TigreGotico/tunein/compare/V0.0.4a2...V0.0.4a3)
 
 **Implemented enhancements:**
 
-- Add a basic CLI [\#5](https://github.com/OpenJarbas/tunein/pull/5) ([cidrblock](https://github.com/cidrblock))
+- Add multi stream support [\#6](https://github.com/TigreGotico/tunein/pull/6) ([cidrblock](https://github.com/cidrblock))
 
-## [V0.0.4a1](https://github.com/OpenJarbas/tunein/tree/V0.0.4a1) (2023-09-05)
+## [V0.0.4a2](https://github.com/TigreGotico/tunein/tree/V0.0.4a2) (2023-11-16)
 
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.3...V0.0.4a1)
+[Full Changelog](https://github.com/TigreGotico/tunein/compare/V0.0.4a1...V0.0.4a2)
+
+**Implemented enhancements:**
+
+- Add a basic CLI [\#5](https://github.com/TigreGotico/tunein/pull/5) ([cidrblock](https://github.com/cidrblock))
+
+## [V0.0.4a1](https://github.com/TigreGotico/tunein/tree/V0.0.4a1) (2023-09-05)
+
+[Full Changelog](https://github.com/TigreGotico/tunein/compare/V0.0.3...V0.0.4a1)
 
 **Fixed bugs:**
 
-- use lists [\#4](https://github.com/OpenJarbas/tunein/pull/4) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.0.3](https://github.com/OpenJarbas/tunein/tree/V0.0.3) (2023-09-05)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.3a2...V0.0.3)
-
-## [V0.0.3a2](https://github.com/OpenJarbas/tunein/tree/V0.0.3a2) (2023-09-05)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.3a1...V0.0.3a2)
-
-## [V0.0.3a1](https://github.com/OpenJarbas/tunein/tree/V0.0.3a1) (2023-04-23)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.2...V0.0.3a1)
-
-**Fixed bugs:**
-
-- fix voice requests [\#3](https://github.com/OpenJarbas/tunein/pull/3) ([emphasize](https://github.com/emphasize))
-
-## [V0.0.2](https://github.com/OpenJarbas/tunein/tree/V0.0.2) (2023-02-19)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.2a3...V0.0.2)
-
-## [V0.0.2a3](https://github.com/OpenJarbas/tunein/tree/V0.0.2a3) (2023-02-19)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/V0.0.2a2...V0.0.2a3)
-
-## [V0.0.2a2](https://github.com/OpenJarbas/tunein/tree/V0.0.2a2) (2023-02-19)
-
-[Full Changelog](https://github.com/OpenJarbas/tunein/compare/56c2fbac974d0781513d86ccd08ab7bab1ea2ccf...V0.0.2a2)
-
-**Implemented enhancements:**
-
-- automations [\#2](https://github.com/OpenJarbas/tunein/pull/2) ([JarbasAl](https://github.com/JarbasAl))
-
-**Merged pull requests:**
-
-- add featured media [\#1](https://github.com/OpenJarbas/tunein/pull/1) ([emphasize](https://github.com/emphasize))
+- use lists [\#4](https://github.com/TigreGotico/tunein/pull/4) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
