@@ -34,12 +34,12 @@ jobs:
   unit_tests:
     strategy:
       matrix:
-        python-version: [ 3.7, 3.8, 3.9, "3.10" ]
+        python-version: ["3.10", "3.11" ]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Set up python ${{ matrix.python-version }}
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install System Dependencies
@@ -56,9 +56,6 @@ jobs:
       - name: Run unittests
         run: |
           pytest --cov=tunein --cov-report xml test/unittests
-          # NOTE: additional pytest invocations should also add the --cov-append flag
-          #       or they will overwrite previous invocations' coverage reports
-          #       (for an example, see OVOS Skill Manager's workflow)
       - name: Upload coverage
         env:
           CODECOV_TOKEN: ${{secrets.CODECOV_TOKEN}}
