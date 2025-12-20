@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/TigreGotico/tunein/tree/HEAD)
+
+[Full Changelog](https://github.com/TigreGotico/tunein/compare/V0.0.4a3...HEAD)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#8](https://github.com/TigreGotico/tunein/pull/8) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [V0.0.4a3](https://github.com/TigreGotico/tunein/tree/V0.0.4a3) (2024-05-28)
 
 [Full Changelog](https://github.com/TigreGotico/tunein/compare/V0.0.4a2...V0.0.4a3)
